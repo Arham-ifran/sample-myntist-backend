@@ -2,6 +2,8 @@
 
 One of the largest NFT marketplace for buying and selling NFTs. Some of the blockchain networks compatible with this marketplace are Binance and MYNT token. This is a NFT Marketplace for users to choose the NFT they want to invest in, sell and buy NFTs.
 
+Myntist Backend is an example web application that includes a code snippet extracted from the stable application.
+
 ## Requirements
 
 For development, you will need MongoDB v4.x, Node.js v14.x (recommended) and a node global package, NPM, installed in your environement.
